@@ -5,7 +5,7 @@
 }
 
 .hero {
-    background-image: url('static/img/0.3.jpg'); /* Ruta de la imagen subida */
+    background-image: url('static/img/0.3.PNG'); /* Ruta de la imagen subida */
     background-size: cover;          /* La imagen cubre todo el contenedor */
     background-position: center;     /* Centra la imagen */
     background-repeat: no-repeat;    /* No se repite la imagen */
